@@ -4,7 +4,11 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
 
 ## Screen 1
 
-![img_base](./img/original/1.JPG)
+| Original                               |     Reproduction                               | 
+| -------------                          |: -------------:                                | 
+| ![img_base](./img/original/1.JPG)      |        ![img_repro](./img/repro/1.JPG)         | 
+
+
 
 
 ## Screen 2
