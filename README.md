@@ -30,7 +30,7 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     </thead>
     <tbody>
         <tr>
-            <td> <img src="./img/original/2.jpg" alt="IMG_ORIGINAL" > </td>
+            <td> <img src="./img/original/2.jpg" alt="IMG_ORIGINAL" width="285px" height="578px> </td>
             <td align="center"><img src="./img/repro/2.jpg" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
@@ -46,8 +46,8 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     </thead>
     <tbody>
         <tr>
-            <td> <img src="./img/original/3.JPG" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
-            <td align="center"><img src="./img/repro/3.JPG" alt="IMG_repro" width="285px" height="578px"></td>
+            <td> <img src="./img/original/3.jpg" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
+            <td align="center"><img src="./img/repro/3.jpg" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
 </table>
@@ -62,8 +62,8 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     </thead>
     <tbody>
         <tr>
-            <td> <img src="./img/original/4.JPG" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
-            <td align="center"><img src="./img/repro/4.JPG" alt="IMG_repro" width="285px" height="578px"></td>
+            <td> <img src="./img/original/4.jpg" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
+            <td align="center"><img src="./img/repro/4.jpg" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
 </table>
@@ -78,8 +78,8 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     </thead>
     <tbody>
         <tr>
-            <td> <img src="./img/original/5.JPG" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
-            <td align="center"><img src="./img/repro/5.JPG" alt="IMG_repro" width="285px" height="578px"></td>
+            <td> <img src="./img/original/5.jpg" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
+            <td align="center"><img src="./img/repro/5.jpg" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
 </table>
@@ -94,8 +94,8 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     </thead>
     <tbody>
         <tr>
-            <td> <img src="./img/original/6.JPG" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
-            <td align="center"><img src="./img/repro/6.JPG" alt="IMG_repro" width="285px" height="578px"></td>
+            <td> <img src="./img/original/6.jpg" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
+            <td align="center"><img src="./img/repro/6.jpg" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
 </table>
@@ -110,8 +110,8 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     </thead>
     <tbody>
         <tr>
-            <td> <img src="./img/original/7.JPG" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
-            <td align="center"><img src="./img/repro/7.JPG" alt="IMG_repro" width="285px" height="578px"></td>
+            <td> <img src="./img/original/7.jpg" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
+            <td align="center"><img src="./img/repro/7.jpg" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
 </table>
@@ -126,8 +126,8 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     </thead>
     <tbody>
         <tr>
-            <td> <img src="./img/original/8.JPG" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
-            <td align="center"><img src="./img/repro/8.JPG" alt="IMG_repro" width="285px" height="578px"></td>
+            <td> <img src="./img/original/8.jpg" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
+            <td align="center"><img src="./img/repro/8.jpg" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
 </table>
@@ -142,8 +142,8 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     </thead>
     <tbody>
         <tr>
-            <td> <img src="./img/original/9.JPG" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
-            <td align="center"><img src="./img/repro/9.JPG" alt="IMG_repro" width="285px" height="578px"></td>
+            <td> <img src="./img/original/9.jpg" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
+            <td align="center"><img src="./img/repro/9.jpg" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
 </table>
@@ -160,8 +160,8 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     </thead>
     <tbody>
         <tr>
-            <td> <img src="./img/original/10.JPG" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
-            <td align="center"><img src="./img/repro/10.JPG" alt="IMG_repro" width="285px" height="578px"></td>
+            <td> <img src="./img/original/10.jpg" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
+            <td align="center"><img src="./img/repro/10.jpg" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
 </table>
