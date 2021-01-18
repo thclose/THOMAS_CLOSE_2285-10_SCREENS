@@ -3,6 +3,13 @@
 Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
 
 ## Screen 1
+| Original      |     copie    | 
+| ------------- |: -------------: | 
+| img|        1        |
+| Line 2        |        2        |
+| 3 Online      |        3        |
+
+
 
 ## Screen 2
 
