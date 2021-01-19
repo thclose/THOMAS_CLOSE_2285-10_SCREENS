@@ -31,7 +31,7 @@ Ce repo est un dossier pour l'examen de Design D'Application Mobiles.
     <tbody>
         <tr>
             <td> <img src="./img/original/3.png" alt="IMG_ORIGINAL" width="285px" height="578px"> </td>
-            <td align="center"><img src="./img/repro/2.jpg" alt="IMG_repro" width="285px" height="578px"></td>
+            <td align="center"><img src="./img/repro/2.png" alt="IMG_repro" width="285px" height="578px"></td>
         </tr>
     </tbody>
 </table>
